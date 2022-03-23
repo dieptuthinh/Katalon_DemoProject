@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acaf83a8-7c47-499b-bfed-c37743513bbe</testCaseGuid>
+   <variable>
+      <defaultValue>'firstName'</defaultValue>
+      <description></description>
+      <id>f5f1d84b-0365-4719-9c74-32648ba7fef5</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'gender'</defaultValue>
+      <description></description>
+      <id>d3217041-52d0-4249-be57-c847e172aca7</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+</TestCaseEntity>

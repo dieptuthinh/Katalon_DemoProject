@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "33393D32C6B8FFB97CADE12891C45E6C",
+  "keywordClasses": [
+    {
+      "name": "tc2.start",
+      "keywordMethods": [
+        {
+          "name": "navigate",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
